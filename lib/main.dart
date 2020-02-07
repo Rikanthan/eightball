@@ -16,10 +16,10 @@ class cover extends StatelessWidget
       (
       home: Scaffold
         (
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.blueAccent,
         appBar: AppBar(
           title:Text('Ask me anything'),
-          backgroundColor: Colors.red,
+          backgroundColor: Colors.blue,
         ),
         body: page(),
       ),
